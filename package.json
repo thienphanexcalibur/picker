@@ -1,6 +1,6 @@
 {
-  "name": "@patched/rc-picker",
-  "version": "2.6.6",
+  "name": "rc-picker-patched",
+  "version": "1.0.0",
   "description": "React date & time picker",
   "keywords": [
     "react",
